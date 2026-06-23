@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Arquivo de verificação de propriedade do domínio para Microsoft 365 local na raiz do site",
+  "Domain": "calcryx.com.br",
+  "Id": "99d23fb3-86ae-4bbe-8b4c-87ef96bfac68"
+}
